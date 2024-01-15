@@ -1,0 +1,2 @@
+# Automated Skin Cancer Classification Using Vision Transformer DensNet201 and ResbNet50 with Dermoscopic images
+ The use of dermoscopic images is particularly relevant in dermatology, as these images provide a closer and more detailed view of the skin lesions. Deep learning models trained on dermoscopic images can learn intricate patterns and features that are essential for accurate skin cancer classification.
